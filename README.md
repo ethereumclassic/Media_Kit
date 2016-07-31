@@ -5,7 +5,7 @@ Media and press professionals may use Ethereum<sup>classic</sup> logos, trademar
 # Brand Guidelines
 
 Covers the general guidelines for use of the ethereum<sup>classic</sup> logo, colour pallete options, and other brand use general topics 
-
+Current version: v1.0.1 July 2016
 
 # Classic Logo
 
