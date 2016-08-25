@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/Classic_Logo/etc_logo_white_tech_2000x2000.png" width="350"/>
+  <img src="/Classic_Logo_Solid/ETC_LOGO_Full_Color_Black.png" width="350"/>
 </p>
 
 # Media Kit
