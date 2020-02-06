@@ -9,12 +9,13 @@ Media and press professionals may use Ethereum Classic logos, trademarks, images
 
 # Brand Guidelines
 
-Covers the general guidelines for use of the ethereum<sup>classic</sup> logo, colour pallete options, and other brand use general topics
+Covers the general guidelines for use of the Ethereum Classic logo, colour pallete options, and other brand use general topics
 Current version: v1.0.1 July 2016
 
-### Ethereum Classic ETC Logo
+# Ethereum Classic Logos
 
-<p align="center">
+## ETC Logo
+
 <table>
   <tbody>
     <tr>
@@ -32,10 +33,25 @@ Current version: v1.0.1 July 2016
     <td><img src="./Logo_ETC/text_etc_logo_black.png" alt="ETC Logo" width="100"/></td>
     <td bgcolor="#000000"><img src="./Logo_ETC/text_etc_logo_white.png" alt="ETC Logo" width="100"/></td>
     </tr>
+    <tr>
+    <td><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_green.png" alt="ETC Chinese Logo" width="100"/></td>
+    <td><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_black.png" alt="ETC Chinese Logo" width="100"/></td>
+    <td bgcolor="#000000"><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_white.png" alt="ETC Chinese Logo" width="100"/></td>
+    </tr>
   </tbody>
 </table>
-</p>
 
+## ETC BaaS Cloud Logo
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-green.png" alt="ETC BaaS Cloud Logo" width="100"/></td>
+      <td><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-black.png" alt="ETC BaaS Cloud Logo" width="100"/></td>
+      <td bgcolor="#000000"><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-white.png" alt="ETC BaaS Cloud Logo" width="100"/></td>
+    </tr>
+  </tbody>
+</table>
 
 # Overview
 
