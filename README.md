@@ -20,17 +20,17 @@ Current version: v1.0.1 July 2016
     <tr>
       <td><img src="./Logo_ETC/etc_logo_green.png" alt="ETC Logo" width="100"/></td>
       <td><img src="./Logo_ETC/etc_logo_black.png" alt="ETC Logo" width="100"/></td>
-      <td><img src="./Logo_ETC/etc_logo_white.png" alt="ETC Logo" width="100"/></td>
+      <td bgcolor="#000000"><img src="./Logo_ETC/etc_logo_white.png" alt="ETC Logo" width="100"/></td>
     </tr>
     <tr>
     <td><img src="./Logo_ETC/flat_etc_logo_green.png" alt="ETC Logo" width="100"/></td>
-    <td><img src="./Logo_ETC/flat_etc_logo_black.png" alt="ETC Logo" width="100"/></td>
-    <td><img src="./Logo_ETC/flat_etc_logo_white.png" alt="ETC Logo" width="100"/></td>
+    <td ><img src="./Logo_ETC/flat_etc_logo_black.png" alt="ETC Logo" width="100"/></td>
+    <td bgcolor="#000000"><img src="./Logo_ETC/flat_etc_logo_white.png" alt="ETC Logo" width="100"/></td>
     </tr>
     <tr>
     <td><img src="./Logo_ETC/text_etc_logo_green.png" alt="ETC Logo" width="100"/></td>
     <td><img src="./Logo_ETC/text_etc_logo_black.png" alt="ETC Logo" width="100"/></td>
-    <td><img src="./Logo_ETC/text_etc_logo_white.png" alt="ETC Logo" width="100"/></td>
+    <td bgcolor="#000000"><img src="./Logo_ETC/text_etc_logo_white.png" alt="ETC Logo" width="100"/></td>
     </tr>
   </tbody>
 </table>
