@@ -18,6 +18,9 @@ Current version: v1.0.1 July 2016
 <table>
   <tbody>
     <tr>
+      <th colspan="3">ETC Logo</th>
+    </tr>
+    <tr>
       <td><img src="./Logo_ETC/etc_logo_green.png" alt="ETC Logo" width="250"/></td>
       <td><img src="./Logo_ETC/etc_logo_black.png" alt="ETC Logo" width="250"/></td>
       <td><img src="./Logo_ETC/etc_logo_white.png" alt="ETC Logo" width="250"/></td>
@@ -101,7 +104,7 @@ Current version: v1.0.1 July 2016
   </tbody>
 </table>
 
-## ETC Network Icon
+## ETC Network Icon Logo
 
 <table>
   <tbody>
