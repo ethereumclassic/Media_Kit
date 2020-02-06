@@ -46,9 +46,9 @@ Current version: v1.0.1 July 2016
 <table>
   <tbody>
     <tr>
-      <td><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-green.png" alt="ETC BaaS Cloud Logo" width="100"/></td>
-      <td><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-black.png" alt="ETC BaaS Cloud Logo" width="100"/></td>
-      <td bgcolor="#000000"><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-white.png" alt="ETC BaaS Cloud Logo" width="100"/></td>
+      <td><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-green.png" alt="ETC BaaS Cloud Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-black.png" alt="ETC BaaS Cloud Logo" width="250"/></td>
+      <td bgcolor="#000000"><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-white.png" alt="ETC BaaS Cloud Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
