@@ -1,5 +1,5 @@
 <div>
-  <img src="./Logo_ETC_Network/etc_network_logo_white_2000x2000.png" alt="Ethereum Classic" width="750"/>
+  <img src="./Logo_ETC_Network_Documentation/etc_network_logo_white_documentation.png" alt="Ethereum Classic Documentation" width="750"/>
   </div>
 
 # Media Kit
