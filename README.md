@@ -93,10 +93,22 @@ Current version: v1.0.1 July 2016
 <table>
   <tbody>
     <tr>
-      <td><img src="./Logo_ETC_Network/etc_network_logo_green_2000x2000.png" alt="ETC Network Logo" width="150"/></td>
-      <td><img src="./Logo_ETC_Network/etc_network_logo_white_2000x2000.png" alt="ETC Network Logo" width="150"/></td>
-      <td><img src="./Logo_ETC_Network/etc_network_logo_grey_2000x2000.png" alt="ETC Network Logo" width="150"/></td>
-      <td><img src="./Logo_ETC_Network/etc_network_logo_red_2000x2000.png" alt="ETC Network Logo" width="150"/></td>
+      <td><img src="./Logo_ETC_Network/etc_network_logo_white_2000x2000.png" alt="ETC Network Logo" width="200"/></td>
+      <td><img src="./Logo_ETC_Network/etc_network_logo_black_2000x2000.png" alt="ETC Network Logo" width="200"/></td>
+      <td><img src="./Logo_ETC_Network/etc_network_logo_grey_2000x2000.png" alt="ETC Network Logo" width="200"/></td>
+      <td><img src="./Logo_ETC_Network/etc_network_logo_red_2000x2000.png" alt="ETC Network Logo" width="200"/></td>
+    </tr>
+  </tbody>
+</table>
+
+## ETC Network Icon
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./Logo_ETC_Network_Icon/etc_network_icon_green.png" alt="ETC Network Icon Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_Network_Icon/etc_network_icon_black.png" alt="ETC Network Icon Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_Network_Icon/etc_network_icon_white.png" alt="ETC Network Icon Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
