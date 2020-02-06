@@ -35,7 +35,7 @@ Current version: v1.0.1 July 2016
     </tr>
     <tr>
     <td><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_green.png" alt="ETC Chinese Logo" width="100"/></td>
-    <td><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_black.png" alt="ETC Chinese Logo" width="100"/></td>
+    <td>&nbsp;</td>
     <td bgcolor="#000000"><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_white.png" alt="ETC Chinese Logo" width="100"/></td>
     </tr>
   </tbody>
