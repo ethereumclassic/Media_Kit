@@ -24,7 +24,6 @@ Exceptions and Limitations means fair use, fair dealing, and/or any other except
 ## Section 2 – Scope.
 ### License grant.
 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
-
   - reproduce and Share the Licensed Material, in whole or in part; and
   - produce, reproduce, and Share Adapted Material.
 2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
