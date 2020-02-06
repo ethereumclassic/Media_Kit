@@ -105,9 +105,9 @@ Current version: v1.0.1 July 2016
       <th colspan="3">Powered by ETC Logo</th>
     </tr>
     <tr>
-      <td><img src="./Logo_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Logo" width="250"/></td>
-      <td><img src="./Logo_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Logo" width="250"/></td>
-      <td><img src="./Logo_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Logo" width="250"/></td>
+      <td><img src="./Logo_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Logo" width="300"/></td>
+      <td><img src="./Logo_Powered_by_ETC/powered_by_etc_button_grey.png" alt="Powered by ETC Logo" width="300"/></td>
+      <td><img src="./Logo_Powered_by_ETC/powered_by_etc_button_green.png" alt="Powered by ETC Logo" width="300"/></td>
     </tr>
   </tbody>
 </table>
