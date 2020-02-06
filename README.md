@@ -88,6 +88,19 @@ Current version: v1.0.1 July 2016
   </tbody>
 </table>
 
+## ETC Network Logo
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./Logo_ETC_Network/etc_network_logo_green_2000x2000.png" alt="ETC Network Logo" width="150"/></td>
+      <td><img src="./Logo_ETC_Network/etc_network_logo_white_2000x2000.png" alt="ETC Network Logo" width="150"/></td>
+      <td><img src="./Logo_ETC_Network/etc_network_logo_grey_2000x2000.png" alt="ETC Network Logo" width="150"/></td>
+      <td><img src="./Logo_ETC_Network/etc_network_logo_red_2000x2000.png" alt="ETC Network Logo" width="150"/></td>
+    </tr>
+  </tbody>
+</table>
+
 # Overview
 
 A one page overview of the ethereum<sup>classic</sup> project
