@@ -82,7 +82,7 @@ Current version: v1.0.1 July 2016
   <tbody>
     <tr>
       <td><img src="./Logo_ETC_Matte/etc_matte_logo.png" alt="ETC Matte Logo" width="250"/></td>
-      <td>&nbsp;</td>
+      <td width="250">&nbsp;</td>
       <td><img src="./Logo_ETC_Matte/etc_matte_logo_circle.png" alt="ETC Matte Logo" width="250"/></td>
     </tr>
   </tbody>
