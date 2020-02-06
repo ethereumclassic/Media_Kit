@@ -111,28 +111,12 @@ Covers the general guidelines for use of the Ethereum Classic logo, colour palle
   </tbody>
 </table>
 
-# Overview
+# DAO Fork Response
+- [Ethereum Classic - Motivation, Ideology, Goals](./DAO_Fork/motivation_ideology_goals.pdf) - July 2016
 
-A one page overview of the ethereum<sup>classic</sup> project
+# ECIP-1017 - Ethereum Classic Monetary Policy
+- [Monetary Policy Presentation](./ECIP-1017/ECIP-1017_monetary_policy_presentation.pdf) - December 2016
+- [Thesis](./ECIP-1017/ECIP-1017_thesis.pdf) - December 2016
 
 # Press Releases
-
-A collection of press releases by the ethereum<sup>classic</sup> team
-
-
-sitemap: https://ethereumclassic.org/press-kit
-
-source: https://github.com/ethereumclassic/Media_Kit
-
-# Press Kit
-
-
-### Ethereum Classic Matte Logo
-insert logo links
-
-### Ethereum Classic Logo - Network
-insert logo links
-
-### Ethereum Classic Logo - Chinese
-
-### Ethereum Classic Logo - Solid
+- [Thesis](./Hardforks/hardfork_aztlan_phoenix.md) - February 2020
