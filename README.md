@@ -20,14 +20,14 @@ Covers the general guidelines for use of the Ethereum Classic logo, colour palle
       <th colspan="3">ETC Logo</th>
     </tr>
     <tr>
-      <td><img src="./Logo_ETC/etc_logo_green.png" alt="ETC Logo" width="250"/></td>
-      <td><img src="./Logo_ETC/etc_logo_black.png" alt="ETC Logo" width="250"/></td>
-      <td><img src="./Logo_ETC/etc_logo_white.png" alt="ETC Logo" width="250"/></td>
-    </tr>
-    <tr>
     <td><img src="./Logo_ETC/flat_etc_logo_green.png" alt="ETC Logo" width="250"/></td>
     <td ><img src="./Logo_ETC/flat_etc_logo_black.png" alt="ETC Logo" width="250"/></td>
     <td><img src="./Logo_ETC/flat_etc_logo_white.png" alt="ETC Logo" width="250"/></td>
+    </tr>
+    <tr>
+      <td><img src="./Logo_ETC/etc_logo_green.png" alt="ETC Logo" width="250"/></td>
+      <td><img src="./Logo_ETC/etc_logo_black.png" alt="ETC Logo" width="250"/></td>
+      <td><img src="./Logo_ETC/etc_logo_white.png" alt="ETC Logo" width="250"/></td>
     </tr>
     <tr>
     <td><img src="./Logo_ETC/text_etc_logo_green.png" alt="ETC Logo" width="250"/></td>
@@ -39,6 +39,10 @@ Covers the general guidelines for use of the Ethereum Classic logo, colour palle
     <td>&nbsp;</td>
     <td><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_white.png" alt="ETC Chinese Logo" width="250"/></td>
     </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
     <tr>
       <th colspan="3">ETC BaaS Cloud Logo</th>
     </tr>
