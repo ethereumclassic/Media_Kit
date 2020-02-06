@@ -119,4 +119,4 @@ Covers the general guidelines for use of the Ethereum Classic logo, colour palle
 - [Thesis](./ECIP-1017/ECIP-1017_thesis.pdf) - December 2016
 
 # Press Releases
-- [Thesis](./Hardforks/hardfork_aztlan_phoenix.md) - February 2020
+- [Hardfork: Aztlan + Phoneix](./Hardforks/hardfork_aztlan_phoenix.md) - February 2020
