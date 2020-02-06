@@ -1,9 +1,3 @@
-
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
 <div>
   <img src="./Logo_ETC_Network/etc_network_logo_white_2000x2000.png" alt="Ethereum Classic" width="750"/>
   </div>
@@ -26,22 +20,22 @@ Current version: v1.0.1 July 2016
     <tr>
       <td><img src="./Logo_ETC/etc_logo_green.png" alt="ETC Logo" width="250"/></td>
       <td><img src="./Logo_ETC/etc_logo_black.png" alt="ETC Logo" width="250"/></td>
-      <td style="background-color:black"><img src="./Logo_ETC/etc_logo_white.png" alt="ETC Logo" width="250"/></td>
+      <td><img src="./Logo_ETC/etc_logo_white.png" alt="ETC Logo" width="250"/></td>
     </tr>
     <tr>
     <td><img src="./Logo_ETC/flat_etc_logo_green.png" alt="ETC Logo" width="250"/></td>
     <td ><img src="./Logo_ETC/flat_etc_logo_black.png" alt="ETC Logo" width="250"/></td>
-    <td style="background-color:black"><img src="./Logo_ETC/flat_etc_logo_white.png" alt="ETC Logo" width="250"/></td>
+    <td><img src="./Logo_ETC/flat_etc_logo_white.png" alt="ETC Logo" width="250"/></td>
     </tr>
     <tr>
     <td><img src="./Logo_ETC/text_etc_logo_green.png" alt="ETC Logo" width="250"/></td>
     <td><img src="./Logo_ETC/text_etc_logo_black.png" alt="ETC Logo" width="250"/></td>
-    <td style="background-color:black"><img src="./Logo_ETC/text_etc_logo_white.png" alt="ETC Logo" width="250"/></td>
+    <td><img src="./Logo_ETC/text_etc_logo_white.png" alt="ETC Logo" width="250"/></td>
     </tr>
     <tr>
     <td><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_green.png" alt="ETC Chinese Logo" width="250"/></td>
     <td>&nbsp;</td>
-    <td style="background-color:black"><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_white.png" alt="ETC Chinese Logo" width="250"/></td>
+    <td><img src="./Logo_ETC_Chinese/chinese_text_etc_logo_white.png" alt="ETC Chinese Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
@@ -53,7 +47,7 @@ Current version: v1.0.1 July 2016
     <tr>
       <td><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-green.png" alt="ETC BaaS Cloud Logo" width="250"/></td>
       <td><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-black.png" alt="ETC BaaS Cloud Logo" width="250"/></td>
-      <td style="background-color:black"><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-white.png" alt="ETC BaaS Cloud Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_BaaS_Cloud/etc_baas_cloud_logo-white.png" alt="ETC BaaS Cloud Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
@@ -65,7 +59,7 @@ Current version: v1.0.1 July 2016
     <tr>
       <td><img src="./Logo_ETC_EC/etc_logo_ec_green.png" alt="ETC EC Logo" width="250"/></td>
       <td><img src="./Logo_ETC_EC/etc_logo_ec_black.png" alt="ETC EC Logo" width="250"/></td>
-      <td style="background-color:black"><img src="./Logo_ETC_EC/etc_logo_ec_white.png" alt="ETC EC Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_EC/etc_logo_ec_white.png" alt="ETC EC Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
@@ -77,7 +71,19 @@ Current version: v1.0.1 July 2016
     <tr>
       <td><img src="./Logo_ETC_Fractal/etc_logo_fractal_green.png" alt="ETC Fractal Logo" width="250"/></td>
       <td><img src="./Logo_ETC_Fractal/etc_logo_fractal_black.png" alt="ETC Fractal Logo" width="250"/></td>
-      <td style="background-color:black"><img src="./Logo_ETC_Fractal/etc_logo_fractal_white.png" alt="ETC Fractal Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_Fractal/etc_logo_fractal_white.png" alt="ETC Fractal Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
+
+## ETC Matte Logo
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./Logo_ETC_Matte/etc_matte_logo.png" alt="ETC Matte Logo" width="250"/></td>
+      <td>&nbsp;</td>
+      <td><img src="./Logo_ETC_Matte/etc_matte_logo_circle.png" alt="ETC Matte Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
