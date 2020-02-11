@@ -9,8 +9,6 @@ Media and press professionals may use Ethereum Classic logos, trademarks, images
 # Brand Guidelines
 Covers the general guidelines for use of the Ethereum Classic logo, colour pallete options, and other brand use general topics.
 
-### 2015 - The Ethereum Project
-- Ethereum Project - [Ethereum Brand Assets](https://ethereum.org/assets/)
 ### 2016 - Ethereum Classic
 - Ethereum Classic - [ETC Logo Brand Guide](./Brand_Guidelines/2016_etc_logo_brand_guide.pdf)
 - Ethereum Classic - [ETC Matte Logo Brand Guide](./Brand_Guidelines/2016_etc_matte_logo_brand_guide.pdf)
@@ -198,15 +196,17 @@ A collection of artwork available for content creators to embed in their Ethereu
 # The DAO Fork
 Content related to the DAO hardfork that split the Etherum Project into ETC and ETH.
 - [Ethereum Classic - Motivation, Ideology, Goals](./DAO_Fork/motivation_ideology_goals.pdf) - July 2016
+- [DAO Fork](./DAO_Fork/)
 
 # ECIP-1017
 Content related to the Ethereum Classic Monetary Policy
 - [Monetary Policy Presentation](./ECIP-1017/ECIP-1017_monetary_policy_presentation.pdf) - December 2016
 - [ETC Monetary Policy Thesis](./ECIP-1017/ECIP-1017_thesis.pdf) - December 2016
+- [ECIP-1017](./ECIP-1017/)
 
 # Hardforks
 Content related to Ethereum Classic Hardforks
-- [hardforks](./Hardforks/)
+- [Hardforks](./Hardforks/)
 
 # Press Releases
 - [Hardfork: Aztlan + Phoenix](./Hardforks/hardfork_aztlan_phoenix.md) - February 2020
