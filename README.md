@@ -91,6 +91,7 @@ Covers the general guidelines for use of the Ethereum Classic logo, colour palle
     </tr>
     <tr>
       <td><img src="./Logo_ETC_Matte/etc_matte_logo.png" alt="ETC Matte Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_Matte/etc_matte_logo_text.png" alt="ETC Matte Logo" width="250"/></td>
       <td><img src="./Logo_ETC_Matte/etc_matte_logo_circle.png" alt="ETC Matte Logo" width="250"/></td>
     </tr>
   </tbody>
