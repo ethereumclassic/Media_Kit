@@ -91,6 +91,7 @@ Covers the general guidelines for use of the Ethereum Classic logo, colour palle
     </tr>
     <tr>
       <td><img src="./Logo_ETC_Matte/etc_matte_logo.png" alt="ETC Matte Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_Matte/etc_matte_logo_text.png" alt="ETC Matte Logo" width="250"/></td>
       <td><img src="./Logo_ETC_Matte/etc_matte_logo_circle.png" alt="ETC Matte Logo" width="250"/></td>
     </tr>
   </tbody>
@@ -116,6 +117,18 @@ Covers the general guidelines for use of the Ethereum Classic logo, colour palle
       <td><img src="./Icon_ETC_Network/etc_network_icon_green.png" alt="ETC Network Icon Logo" width="250"/></td>
       <td><img src="./Icon_ETC_Network/etc_network_icon_black.png" alt="ETC Network Icon Logo" width="250"/></td>
       <td><img src="./Icon_ETC_Network/etc_network_icon_white.png" alt="ETC Network Icon Logo" width="250"/></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <th colspan="3">Ethereum Classic's ETC Website Logo</th>
+    </tr>
+    <tr>
+      <td><img src="./Logo_ETC_Website/etc_logo_website_green.png" alt="ETC Website Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_Website/etc_logo_website_black.png" alt="ETC Website Logo" width="250"/></td>
+      <td><img src="./Logo_ETC_Website/etc_logo_website_white.png" alt="ETC Website Logo" width="250"/></td>
     </tr>
   </tbody>
 </table>
