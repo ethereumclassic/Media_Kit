@@ -227,3 +227,4 @@ Content related to Ethereum Classic Hardforks
 # Social Media
 Ethereum Classic memes
 - [Social Media](./Social_Media/)
+- [Ethereum Classic Army Pintrest](https://www.pinterest.it/EthereumClassicArmy/)
