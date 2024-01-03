@@ -1,6 +1,4 @@
-<div>
-  <img src="./Logo_ETC_Network_Documentation/etc_network_logo_white_documentation.png" alt="Ethereum Classic Documentation" width="750"/>
-  </div>
+
 
 # Media Kit
 
