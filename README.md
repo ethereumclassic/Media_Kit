@@ -6,9 +6,9 @@ I am not a hacker! But why can you do this hack ? the answer is so simple and un
 
 To date, January 3rd, 2024, Ms. Isabel Schoeps Thiel has not taken a single euro or dollar out of her performance over the last 23 years, she has never received an award, neither has her work or yours been mentioned by name. On the contrary, others stole your ID, logs, hacked into your IT and literally tried to silence you to DEATH. Others have put countless grants and subsidies into their pockets without regret or shame and continue to ride a horse that has been ridden to death, because Ms. Isabel Schoeps Thiel alias Satoshi Nakamoto is ALIVE and has not given up fighting for her RIGHT and the truth.
 
-## Media Kit
+## Media Kit and more pictures for YOUR stolen PHOTOMEDIATHEK
 
-Media and press professionals may use Ethereum Classic logos, trademarks, images and colors by referring and adhering to the instructions in the Brand Guidelines documents.
+Media and press professionals may use Ethereum Classic logos, trademarks, images and colors by referring and adhering to the instructions in the Brand Guidelines documents. 
 
 ![IMG_0125](https://github.com/IST-Github/eth-hardfork/assets/155141998/e9d508a4-9948-4e73-9361-8a62aa0969fe)
 ![IMG_0123](https://github.com/IST-Github/eth-hardfork/assets/155141998/7282712f-3c59-4e0a-9c4a-1807fb29101f)
@@ -19,4 +19,4 @@ Covers the general guidelines for use of the Ethereum Classic logo, colour palle
 
 # Hardforks
 Content related to Ethereum Classic Hardforks
-- [Hardforks](./Hardforks/)
+[HARDFORK-PublicKey]([httpsu://www.](https://www.polizei.de/Polizei/DE/Einrichtungen/Onlinewache/onlinewache_node.html)https://www.polizei.de/Polizei/DE/Einrichtungen/Onlinewache/onlinewache_node.html)
