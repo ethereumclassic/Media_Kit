@@ -1,4 +1,3 @@
-The Phoenix Project is a basic set of visual resources for people who want to work on Ethereum Classic projects and style them using simple principles.
-It is also an attempt at establishing brand values and a look and feel for the Ethereum Classic brand.
+The Phoenix Ethereum is a COPYRIGHT and a Symbol of FREEDOM, Peace, and kill the bad Community. Copyright by Isabel Schoeps Thiel
 
-All materials are licensed under [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
+All materials are copyright - YOU KNOW !
