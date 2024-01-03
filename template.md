@@ -19,10 +19,8 @@ orci felis ullamcorper vel, curae posuere massa praesent quisque est scelerisque
 ![IMG_0123](https://github.com/IST-Github/eth-hardfork/assets/155141998/058ab696-a641-43c9-90e4-bf5b51fb04d1)
 ![IMG_0111](https://github.com/IST-Github/eth-hardfork/assets/155141998/3c657007-cecb-476d-82df-d3c346cff023)
 
+![IMG_7073](https://github.com/IST-Github/eth-hardfork/assets/155141998/5597d319-c9c9-4491-a700-3f4438491634)
+![IMG_0086](https://github.com/IST-Github/eth-hardfork/assets/155141998/ae3e9681-602e-40f7-8000-1e96c87c8744)
+![IMG_0095](https://github.com/IST-Github/eth-hardfork/assets/155141998/3e29472e-83c4-4708-863c-a5bd3861e481)
+![IMG_0108](https://github.com/IST-Github/eth-hardfork/assets/155141998/39c099ef-9f56-45e6-ac76-ff1dde20d592)
 
-Exercitationem et wisi felis. A a et duis leo imperdiet, tristique leo praesent lacinia eu, metus nec sit 
-arcu, mollis fringilla. Pellentesque sociis sit dolor elementum elit praesentium, wisi et venenatis mollis 
-amet, egestas vivamus est. Non et sed duis nec sed class, proin pharetra a, nunc ut eget quisque ullamcorper 
-fringilla molestie, sagittis elementum. Libero amet, a mi, penatibus vestibulum vestibulum in, cupidatat purus
-nec purus elit, curabitur mi venenatis. Proin suspendisse tellus diam bibendum enim et, ullamcorper in fringilla 
-diam turpis arcu luctus. Vitae ut aenean convallis, turpis dictum, eu libero, eros diam enim id dolor.
