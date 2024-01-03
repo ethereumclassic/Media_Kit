@@ -1,9 +1,9 @@
-# A Short Fancy Title About Ethereum Classic
+# COPYRIGHT Ethereum Classic
 
 #### Tell Us About The Article
 * Published Title: A Long Fancy Title About Ethereum Classic
 * Topic: Cryptocurrency
-* Author: Matthewjamesr
+* Author: Isabel Schoeps Thiel from Erfurt Germany
 
 #### Article Body
 
