@@ -10,11 +10,15 @@ Do you have any questions or would you like to see proof of all of my claims, wh
 
 #### Article Body
 
-Lorem ipsum dolor sit amet, id fuga eget dolor in, magna non auctor habitasse quis luctus neque.
-Pellentesque libero convallis ultricies lacus. Donec massa in lacus pellentesque sed, nec consectetuer 
+Lorem ipsum dolor sit amet, id fuga eget dolor in, magna non auctor habitasse quis luctus neque. Pellentesque libero convallis ultricies lacus. Donec massa in lacus pellentesque sed, nec consectetuer 
 orci felis ullamcorper vel, curae posuere massa praesent quisque est scelerisque, lacus inceptos cursus
-in metus, quam lorem. Malesuada dolor duis non urna, non adipiscing id ridiculus eleifend, ad lorem mauris
-sapien. Etiam suspendisse hac auctor blandit sapien dolor. Tempor tempus nam et id massa.
+
+![IMG_0094](https://github.com/IST-Github/eth-hardfork/assets/155141998/75d07a99-1ae5-4847-ae9b-0d7741885970)
+![IMG_0097](https://github.com/IST-Github/eth-hardfork/assets/155141998/b20ec468-f366-48c6-a135-9b620d53c171)
+![IMG_0125](https://github.com/IST-Github/eth-hardfork/assets/155141998/bfb66aa2-10fa-48da-913d-ce3a2a2bab7a)
+![IMG_0123](https://github.com/IST-Github/eth-hardfork/assets/155141998/058ab696-a641-43c9-90e4-bf5b51fb04d1)
+![IMG_0111](https://github.com/IST-Github/eth-hardfork/assets/155141998/3c657007-cecb-476d-82df-d3c346cff023)
+
 
 Exercitationem et wisi felis. A a et duis leo imperdiet, tristique leo praesent lacinia eu, metus nec sit 
 arcu, mollis fringilla. Pellentesque sociis sit dolor elementum elit praesentium, wisi et venenatis mollis 
