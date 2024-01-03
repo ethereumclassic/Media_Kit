@@ -18,4 +18,4 @@ Media and press professionals may use Ethereum Classic logos, trademarks, images
 Covers the general guidelines for use of the Ethereum Classic logo, colour pallete options, and other brand use general 
 
 # Hardforks
-Content related to [Ethereum Classic Hardforks](https://www.polizei.de/Polizei/DE/Einrichtungen/Onlinewache/onlinewache_node.html)
+Content related to [Ethereum Classic Hardfork](https://www.polizei.de/Polizei/DE/Einrichtungen/ZAC/zac_node.html)
