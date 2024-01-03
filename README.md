@@ -7,18 +7,6 @@ Media and press professionals may use Ethereum Classic logos, trademarks, images
 # Brand Guidelines
 Covers the general guidelines for use of the Ethereum Classic logo, colour pallete options, and other brand use general 
 
-# The DAO Fork
-Content related to the DAO hardfork that split the Etherum Project into ETC and ETH.
-- [Ethereum Classic - Motivation, Ideology, Goals](./DAO_Fork/motivation_ideology_goals.pdf) - July 2016
-- [DAO Fork](./DAO_Fork/)
-
 # Hardforks
 Content related to Ethereum Classic Hardforks
 - [Hardforks](./Hardforks/)
-
-# Press Releases
-- [Hardfork: Aztlan + Phoenix](./Hardforks/hardfork_aztlan_phoenix.md) - February 2020
-
-# Social Media
-Ethereum Classic memes
-- [Social Media](./Social_Media/)
