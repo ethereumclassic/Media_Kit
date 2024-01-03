@@ -6,11 +6,6 @@ Media and press professionals may use Ethereum Classic logos, trademarks, images
 
 # Brand Guidelines
 Covers the general guidelines for use of the Ethereum Classic logo, colour pallete options, and other brand use general 
-### 2017
-- Ethereum Classic's [Phoenix Project Brand Guide](./Brand_Guidelines/2017_etc_phoenix_project_brand_guide.pdf)
-  - Font: [Yantramanav](https://fonts.google.com/specimen/Yantramanav?selection.family=Yantramanav)
-  - Font: [Oswald](https://fonts.google.com/specimen/Oswald?selection.family=Oswald)
-
 
 # The DAO Fork
 Content related to the DAO hardfork that split the Etherum Project into ETC and ETH.
