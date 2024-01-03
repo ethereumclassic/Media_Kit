@@ -1,9 +1,12 @@
 # COPYRIGHT Ethereum Classic
 
-#### Tell Us About The Article
-* Published Title: A Long Fancy Title About Ethereum Classic
+#### About The Article
+
+Do you have any questions or would you like to see proof of all of my claims, which you consider to be insane? You are welcome to contact me or meet me on site, and your legal advisor is also welcome to visit me. As I have been for all these years, I am transparent and will assist you with advice and support.
+
+* Published Title: the True Story about DAO HARDFORK and Ethereum Classic
 * Topic: Cryptocurrency
-* Author: Isabel Schoeps Thiel from Erfurt Germany
+* Author: Ms. Isabel Schoeps Thiel, Neuwerkstraße 26/27, 99084 Erfurt, Germany (c/o Findeklee, Appartment MIDDEL, penultimate floor Vorletzte-Etage, Whg Mitte)  
 
 #### Article Body
 
@@ -19,7 +22,3 @@ amet, egestas vivamus est. Non et sed duis nec sed class, proin pharetra a, nunc
 fringilla molestie, sagittis elementum. Libero amet, a mi, penatibus vestibulum vestibulum in, cupidatat purus
 nec purus elit, curabitur mi venenatis. Proin suspendisse tellus diam bibendum enim et, ullamcorper in fringilla 
 diam turpis arcu luctus. Vitae ut aenean convallis, turpis dictum, eu libero, eros diam enim id dolor.
-
-#### More Details
-* URL: `etcnewsexample.com/article/12345`
-* Post Image: `etcnewsexample.com/article/12345/hero.jpg`
