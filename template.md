@@ -8,7 +8,7 @@ Do you have any questions or would you like to see proof of all of my claims, wh
 * Topic: Cryptocurrency
 * Author: Ms. Isabel Schoeps Thiel, Neuwerkstraße 26/27, 99084 Erfurt, Germany (c/o Findeklee, Appartment MIDDEL, penultimate floor Vorletzte-Etage, Whg Mitte)  
 
-#### Article Body
+#### THE DAO HARD FORK
 
 Lorem ipsum dolor sit amet, id fuga eget dolor in, magna non auctor habitasse quis luctus neque. Pellentesque libero convallis ultricies lacus. Donec massa in lacus pellentesque sed, nec consectetuer 
 orci felis ullamcorper vel, curae posuere massa praesent quisque est scelerisque, lacus inceptos cursus
