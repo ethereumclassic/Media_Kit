@@ -1,0 +1,83 @@
+path	bytes	width	height	sha256
+LICENSE.md	1561			e517a639fd1c418d6fafb753500ba2d3a4fc620b4effa9c41918e06e681e3dcd
+README.md	10520			e74321a383e56b06cf4a9e4939297bdd286c912411cfabba8f7d38f43656dff7
+construction/README.md	1248			732e02898653f41d0b8a28915adec920c5aa7198dd198bdc7a6b4bb59cf746a0
+construction/ethereum-classic-logo-construction.png	187323	1960	1380	12f9e0cb0cd601027ab3285b804e139576dd912bf3e2b339dd41ee25ad1baec6
+construction/ethereum-classic-logo-construction.svg	15456	1960	1380	92379556dd9da1e4b83381b9c5a500b3f614addc0b6b5cdd3a28942c3952923c
+construction/ethereum-classic-logo-facets.png	133866	1800	1180	5d43c7710feb49e8f44da42b1f699a341a008fc5f293cd6300cdef5870774ffc
+construction/ethereum-classic-logo-facets.svg	7738	1800	1180	50803fe7531328bec76242a51a6083814567a9aff53c578aefacb04f582284ee
+png/on-black/README.md	636			2ac0f3b90c87391044c0c0297177bf03cae15b7e32c67fc645968e4142e54544
+png/on-black/ethereum-classic-logo-full-colour-on-black-400x400.png	10530	400	400	cc7900c86a3342682784c49332f3d66a7eb39da02c8cc7946aa5cffb2caae23d
+png/on-black/ethereum-classic-logo-mono-on-black-400x400.png	11904	400	400	d9f1d2d039556b9ce6b6fb4bb1d64825969de31ee8684b4ca0907e0b7cbea258
+png/transparent/README.md	1836			8894892079324c9014123440e6fd6db0fc81ba4dc8ee49f368c9abf168f183be
+png/transparent/ethereum-classic-logo-full-colour-150.png	3898	93	150	0a6f0fde83e237ecce54799a66da9cd7cdd60022a69d693fe2ee71b041f6bcc4
+png/transparent/ethereum-classic-logo-full-colour-2000.png	69853	1239	2000	5d16e2a26eb70f9a12100ef6076785e133b3ee9686d90eee5dab63045d4817f9
+png/transparent/ethereum-classic-logo-full-colour-400.png	10891	248	400	7289e3da77ff79ae571ca191c2bc7b2c23ca3f218c6d445e593a794260df4fe1
+png/transparent/ethereum-classic-logo-full-colour-4096.png	169155	2538	4096	3d503b384b9932eb0f7b5f962b4e98234fe95eec2db7c7ce250bac155123ede9
+png/transparent/ethereum-classic-logo-full-colour-48.png	1220	30	48	e5a9062fb48743681fc31293864145a5ff724cb827dc74bf8a9bd097781fbbc4
+png/transparent/ethereum-classic-logo-full-colour-800.png	23342	496	800	285c9243cc2d4ab972875673d8c7aea356d321f05485e3cd51ffc19d3f5fdf73
+png/transparent/ethereum-classic-logo-full-colour-8192.png	427844	5075	8192	6abf373f553c3f4abc6dc06f63482028d984202c6b3c0313e54bf83152a2f9f7
+png/transparent/ethereum-classic-logo-mono-150.png	3695	93	150	20e28e5faf2e35124fafe60d2f7128419a0cb9f8044aa1cea913d56faba6f78a
+png/transparent/ethereum-classic-logo-mono-2000.png	72556	1239	2000	27829793724eb7bac2a72e310e8f81d2eda6953a52e05598897032f9023019f0
+png/transparent/ethereum-classic-logo-mono-400.png	11039	248	400	7d7c9ca4b7940e852826026d95133f4df40cc9acff592cf81e1f81fc232abd81
+png/transparent/ethereum-classic-logo-mono-4096.png	170755	2538	4096	7221ff556e7a568831025a7402c373de2a6094f4e0e6be6b95e41eed2bf674b5
+png/transparent/ethereum-classic-logo-mono-48.png	1119	30	48	e38caaa0d672c6ad4b4dba614aa559b5586d200b6a1e4097cf9baeb9277c433f
+png/transparent/ethereum-classic-logo-mono-800.png	24238	496	800	52a4ebe7d839ed0483f608312452a5a8831e5f9c0441d3a6d14d3d4834d160e1
+png/transparent/ethereum-classic-logo-mono-8192.png	437556	5075	8192	c4ee6ba68fe56c49a89f53fb8b993c02ffea5b9cf6d7ead1582d5fd04cf281e7
+social/README.md	1599			1c78ec523c02ec0f15330dac098b049dcf7e78c461f0f15763b965246495bedd
+social/discord/README.md	3741			1055dd86ee36c090f28dd998c8e2d692be0b66756bd71f018e1bfc67b9b6d848
+social/discord/etc-logo-full-colour-discord-emoji-128x128.png	3134	128	128	e2802171c3887d25136732693f0b8c24baa4a50396bbafa2d6bc4bc94a56d0fb
+social/discord/etc-logo-full-colour-discord-role-icon-64x64.png	1529	64	64	fa104f46a07e8e1d147f7d1f5af60ab7ecfc5045a41fc148dc5337d927c8d0ec
+social/discord/etc-logo-full-colour-on-black-discord-avatar-1024x1024.png	30166	1024	1024	5314a4d2e64a2b49cd2e4b6a6c94962a49a5b52ada623915dbed3f2bfb69b893
+social/discord/etc-logo-full-colour-on-black-discord-server-icon-1024x1024.png	30166	1024	1024	5314a4d2e64a2b49cd2e4b6a6c94962a49a5b52ada623915dbed3f2bfb69b893
+social/discord/etc-logo-full-colour-on-white-discord-avatar-1024x1024.png	32168	1024	1024	e83eb6f46cb978cfa862af8de735a5868189d1de7e93c4d4b4368764d468a9d4
+social/discord/etc-logo-full-colour-on-white-discord-server-icon-1024x1024.png	32168	1024	1024	e83eb6f46cb978cfa862af8de735a5868189d1de7e93c4d4b4368764d468a9d4
+social/discord/etc-logo-mono-discord-emoji-128x128.png	2990	128	128	dc822a0b03b225f7f1a749ef62e44ef8caf2853e27cba68badef2107c4e4962a
+social/discord/etc-logo-mono-discord-role-icon-64x64.png	1438	64	64	e556cc6746855d90c5b5e8b880fd6514c97dfc0766d5e032010e163bf12fcd73
+social/discord/etc-logo-mono-on-black-discord-avatar-1024x1024.png	34946	1024	1024	2b779677550ded6fa26a29db2dd173420ae9c2c573dcf4c34b776acab581fbdb
+social/discord/etc-logo-mono-on-black-discord-server-icon-1024x1024.png	34946	1024	1024	2b779677550ded6fa26a29db2dd173420ae9c2c573dcf4c34b776acab581fbdb
+social/facebook/README.md	1137			2d624ac9622992d6aa1eb19bed868b7f95419c9e0562aee18bc224107f4ecaf4
+social/facebook/etc-logo-full-colour-on-black-facebook-profile-320x320.png	8285	320	320	a003937e892a4bf5367afd55297da70350d66ee50a34fd10262054024ec4dc86
+social/facebook/etc-logo-full-colour-on-white-facebook-profile-320x320.png	8688	320	320	b708b12dc973df51a601b76172c74bd2f30276ae48e8c99b50f634608e7573e0
+social/facebook/etc-logo-mono-on-black-facebook-profile-320x320.png	9056	320	320	ba4a39a6a9eef9233b3d9566b0e7ff3ba7953b52523d77a0f2142cd9f2909aa2
+social/instagram/README.md	1089			99ae2b463d1394ad87297167dcc4ef062d703a3c8d7affa266eb5f61e5d52e7c
+social/instagram/etc-logo-full-colour-on-black-instagram-profile-320x320.png	8285	320	320	a003937e892a4bf5367afd55297da70350d66ee50a34fd10262054024ec4dc86
+social/instagram/etc-logo-full-colour-on-white-instagram-profile-320x320.png	8688	320	320	b708b12dc973df51a601b76172c74bd2f30276ae48e8c99b50f634608e7573e0
+social/instagram/etc-logo-mono-on-black-instagram-profile-320x320.png	9056	320	320	ba4a39a6a9eef9233b3d9566b0e7ff3ba7953b52523d77a0f2142cd9f2909aa2
+social/linkedin/README.md	1975			a707db60836430075a6397bddafa04e5baeee1f23a5d83511e719d0542e56f43
+social/linkedin/etc-logo-full-colour-on-black-linkedin-company-logo-400x400.png	10501	400	400	32f951005aa9255fefae15bb9898ee6b8aa5418375b536793c5a5ce74766c7e3
+social/linkedin/etc-logo-full-colour-on-black-linkedin-profile-800x800.png	22762	800	800	53144def6af91f7910cf7dce9ef2c0c2f0838d7c5d5152fe93837834e24463b5
+social/linkedin/etc-logo-full-colour-on-white-linkedin-company-logo-400x400.png	11297	400	400	0bb6454d283ce614088f9eab9af24c680f3600c44aeaf455172b553d005864af
+social/linkedin/etc-logo-full-colour-on-white-linkedin-profile-800x800.png	24403	800	800	392b5dd785b152299b7c900915b5cce4ecf4dd8fe2e3b0a9d5cc6df27e77a32f
+social/linkedin/etc-logo-mono-on-black-linkedin-company-logo-400x400.png	11761	400	400	6a3c71cc0875e69ed47ff4bdb4d50a31e607038b4ce912043cdcd1bcfccf13c2
+social/linkedin/etc-logo-mono-on-black-linkedin-profile-800x800.png	26432	800	800	aa96dbb0d3ddd58f6353803871ef1bf5b103ec15bc8d1a6230fd5155d9b0d3d2
+social/telegram/README.md	2816			4ff28f36b32ef2ae049dc3dec35c530c827209f27f915a87152cd9ce3df9ab5e
+social/telegram/etc-logo-full-colour-on-black-telegram-profile-1280x1280.png	38082	1280	1280	34378cc948072760de8c850efdaa66759672c1c3e32e6d74e63e503d5ee30685
+social/telegram/etc-logo-full-colour-on-white-telegram-profile-1280x1280.png	40611	1280	1280	fb24e29e39317852f382b3147275bea11a1569cab9bca16efa121670be122648
+social/telegram/etc-logo-full-colour-telegram-emoji-100x100.png	2475	100	100	fba0811ddaff84f16ad0017e8f1e35b8298976093d628c331540772024ad3e6d
+social/telegram/etc-logo-full-colour-telegram-sticker-512x512.png	14005	512	512	9733af5fd2f14507404558ab54fefa57d9c712bde47c51a4b2f6800874d48524
+social/telegram/etc-logo-mono-on-black-telegram-profile-1280x1280.png	44731	1280	1280	366979fe820c6565dce3cb6bf8b8437a434aa6b73308c11e18185fadd72c037a
+social/telegram/etc-logo-mono-telegram-emoji-100x100.png	2362	100	100	be6573530144aba6aa14e3975ce1642d24cf4d53bc17051c39875dc1871e9584
+social/telegram/etc-logo-mono-telegram-sticker-512x512.png	14517	512	512	f2439a12d55df5cffe11199d69f7a01ce8ff3810a3ed6c8a4157b9ffb18e6dd7
+social/tiktok/README.md	2037			aa5f758fa27fb1334d3d3811591a1e88c76ea5a603a590274cd28e71e8bf7d55
+social/tiktok/etc-logo-full-colour-on-black-tiktok-ad-profile-98x98.png	2357	98	98	049b02b8e95a667a6d92a20fcf391c87905f7d1c4660d4f6046879ca20b37878
+social/tiktok/etc-logo-full-colour-on-black-tiktok-profile-400x400.png	10501	400	400	32f951005aa9255fefae15bb9898ee6b8aa5418375b536793c5a5ce74766c7e3
+social/tiktok/etc-logo-full-colour-on-white-tiktok-ad-profile-98x98.png	2310	98	98	1b1549d72751c449b6673e992c979a265011e7a8180d65ad5837519558b9d9ef
+social/tiktok/etc-logo-full-colour-on-white-tiktok-profile-400x400.png	11297	400	400	0bb6454d283ce614088f9eab9af24c680f3600c44aeaf455172b553d005864af
+social/tiktok/etc-logo-mono-on-black-tiktok-ad-profile-98x98.png	1869	98	98	3e3df01e1c0fb554d5c69433cdcdd2bb6b6c9aa0509acf77b9b4727fe47195d1
+social/tiktok/etc-logo-mono-on-black-tiktok-profile-400x400.png	11761	400	400	6a3c71cc0875e69ed47ff4bdb4d50a31e607038b4ce912043cdcd1bcfccf13c2
+social/x/README.md	972			0810a136f8cac3ba92e485e6de460e3112efec9e6ec765543c0692c44ef1c924
+social/x/etc-logo-full-colour-on-black-x-profile-400x400.png	10501	400	400	32f951005aa9255fefae15bb9898ee6b8aa5418375b536793c5a5ce74766c7e3
+social/x/etc-logo-full-colour-on-white-x-profile-400x400.png	11297	400	400	0bb6454d283ce614088f9eab9af24c680f3600c44aeaf455172b553d005864af
+social/x/etc-logo-mono-on-black-x-profile-400x400.png	11761	400	400	6a3c71cc0875e69ed47ff4bdb4d50a31e607038b4ce912043cdcd1bcfccf13c2
+social/youtube/README.md	1939			d6a65870d14f38e549c212654a0d2c4112e66af30e6ae7a4128df6e41d9bc499
+social/youtube/etc-logo-full-colour-on-black-youtube-profile-800x800.png	22762	800	800	53144def6af91f7910cf7dce9ef2c0c2f0838d7c5d5152fe93837834e24463b5
+social/youtube/etc-logo-full-colour-on-white-youtube-profile-800x800.png	24403	800	800	392b5dd785b152299b7c900915b5cce4ecf4dd8fe2e3b0a9d5cc6df27e77a32f
+social/youtube/etc-logo-full-colour-youtube-watermark-150x150.png	3794	150	150	444a1465e34c761d7fc66a57a0d581d1143c873c90a4b4ec6b3f450449b2e28d
+social/youtube/etc-logo-mono-on-black-youtube-profile-800x800.png	26432	800	800	aa96dbb0d3ddd58f6353803871ef1bf5b103ec15bc8d1a6230fd5155d9b0d3d2
+social/youtube/etc-logo-mono-youtube-watermark-150x150.png	3633	150	150	0bed293438e3dd50bf41747cc662fbba7cefcf94192d0b75f9ff973782b09cd6
+svg/README.md	2767			1e872adbdbe7d9790049b499a2294e7b1fee8d78dce54be5b913366ef62a77be
+svg/ethereum-classic-logo-full-colour-square.svg	2163	1492.5374	1492.5374	f5cb3d07136a86f914eac198ed84d8e5cc6aeb65be1cafa89219ff2df27be724
+svg/ethereum-classic-logo-full-colour.svg	2041	619.393	1000	8c52c995a5f950b69b3fbcf54d85cf79c58a034c09c9cc9e1378a13e97458957
+svg/ethereum-classic-logo-mono-square.svg	2156	1492.5374	1492.5374	c9d4b91310c77df0a5587b80e6fbfe5513b1fd4fd50a0132a7fdeccf3da6c830
+svg/ethereum-classic-logo-mono.svg	2034	619.393	1000	df63fe5964441036453d4e75a74a5d1ba34b1f2a7243318e44c2af3f71cd050c

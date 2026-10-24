@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1960" height="1380" viewBox="0 0 1960 1380" role="img" aria-labelledby="t d">
+<title id="t">Ethereum Classic Logo: construction</title>
+<desc id="d">The logo with its outline, mirror axes at x = 0 and y = 500, the facet split, the gaps and gap bands, both tip angles, height and width, and every outline point with its value in u (1/1000 of the height).</desc>
+<rect x="0" y="0" width="1960" height="1380" fill="#ffffff"/>
+<text x="60.00" y="70.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="start" fill="#1d2021">Ethereum Classic Logo: construction</text>
+<text x="60.00" y="110.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#5b6066">u = 1/1000 of the logo's height.  x from the centre line, y down from the top tip.  Values from the measured master.</text>
+<g transform="translate(820.0 210.0) scale(0.92)" opacity="0.3">
+<defs>
+<mask id="etc-top" maskUnits="userSpaceOnUse" x="-409.6964" y="-100" width="819.3928" height="1200"><path fill="#ffffff" d="M0,0 L309.6964,456.0074 L0,290.4162 L-309.6964,456.0074 Z"/></mask>
+<mask id="etc-rhombus" maskUnits="userSpaceOnUse" x="-409.6964" y="-100" width="819.3928" height="1200"><path fill="#ffffff" d="M0,341.05 L297.2756,500 L0,658.95 L-297.2756,500 Z"/></mask>
+<mask id="etc-chevron" maskUnits="userSpaceOnUse" x="-409.6964" y="-100" width="819.3928" height="1200"><path fill="#ffffff" d="M-309.6964,543.9926 L0,709.5838 L309.6964,543.9926 L0,1000 Z"/></mask>
+</defs>
+<g mask="url(#etc-top)">
+<path fill="#3cba3c" d="M-2000,-2000 L2000,-2000 L2000,3000 L-2000,3000 Z"/>
+<path fill="#0c8412" d="M0,-2000 L2000,-2000 L2000,3000 L0,3000 Z"/>
+</g>
+<g mask="url(#etc-rhombus)">
+<path fill="#3cba3c" d="M-2000,-2000 L2000,-2000 L2000,3000 L-2000,3000 Z"/>
+<path fill="#166816" d="M-594.5512,476.0214 L0,523.9786 L594.5512,476.0214 L0,793.9214 Z"/>
+<path fill="#0c8412" d="M0,523.9786 L0,158.1214 L594.5512,476.0214 L297.2756,634.9714 Z"/>
+<path fill="#034c03" d="M0,523.9786 L0,793.9214 L594.5512,476.0214 Z"/>
+</g>
+<g mask="url(#etc-chevron)">
+<path fill="#3cba3c" d="M-2000,-2000 L2000,-2000 L2000,3000 L-2000,3000 Z"/>
+<path fill="#0c8412" d="M0,-2000 L2000,-2000 L2000,3000 L0,3000 Z"/>
+</g>
+</g>
+<path d="M820.000,159.400 L820.000,1180.600" fill="none" stroke="#1f5fbf" stroke-width="1.600" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="10 6"/>
+<path d="M498.279,670.000 L1169.321,670.000" fill="none" stroke="#1f5fbf" stroke-width="1.600" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="10 6"/>
+<text x="829.20" y="180.56" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#1f5fbf">mirror axis x = 0 (left / right)</text>
+<text x="489.08" y="677.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end" fill="#1f5fbf">mirror axis y = 500 (top / bottom)</text>
+<path d="M820.000,210.000 L1104.921,629.527 L820.000,477.183 L535.079,629.527 Z" fill="none" stroke="#1d2021" stroke-width="2.200" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M820.000,523.766 L1093.494,670.000 L820.000,816.234 L546.506,670.000 Z" fill="none" stroke="#1d2021" stroke-width="2.200" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M535.079,710.473 L820.000,862.817 L1104.921,710.473 L820.000,1130.000 Z" fill="none" stroke="#1d2021" stroke-width="2.200" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M820.000,692.060 L546.506,670.000" fill="none" stroke="#c0392b" stroke-width="2.000" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<path d="M820.000,692.060 L1093.494,670.000" fill="none" stroke="#c0392b" stroke-width="2.000" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<path d="M757.97,301.33 A110.40,110.40 0 0 0 882.03,301.33" fill="none" stroke="#1d2021" stroke-width="1.6"/>
+<path d="M783.200,311.200 L498.279,348.000" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="489.08" y="355.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="end" fill="#1d2021">top tip 68.36°</text>
+<path d="M757.97,1038.67 A110.40,110.40 0 0 1 882.03,1038.67" fill="none" stroke="#1d2021" stroke-width="1.6"/>
+<path d="M783.200,1028.800 L498.279,992.000" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="489.08" y="999.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="end" fill="#1d2021">bottom tip 68.36°</text>
+<path d="M804.000,477.183 L836.000,477.183" fill="none" stroke="#7a3e00" stroke-width="2.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M804.000,523.766 L836.000,523.766" fill="none" stroke="#7a3e00" stroke-width="2.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M802.000,500.474 L498.279,500.474" fill="none" stroke="#7a3e00" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="489.08" y="507.47" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="end" fill="#7a3e00">gap 50.63</text>
+<path d="M804.000,816.234 L836.000,816.234" fill="none" stroke="#7a3e00" stroke-width="2.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M804.000,862.817 L836.000,862.817" fill="none" stroke="#7a3e00" stroke-width="2.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M802.000,839.526 L498.279,839.526" fill="none" stroke="#7a3e00" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="489.08" y="846.53" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="end" fill="#7a3e00">gap 50.63</text>
+<path d="M683.253,596.883 L663.883,560.657" fill="none" stroke="#7a3e00" stroke-width="2.400" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M663.883,560.657 L498.279,523.857" fill="none" stroke="#7a3e00" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="489.08" y="530.86" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="end" fill="#7a3e00">gap bands 44.65 wide (all four)</text>
+<path d="M512.079,210.000 L512.079,1130.000" fill="none" stroke="#1d2021" stroke-width="1.400" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M501.039,210.000 L523.119,210.000" fill="none" stroke="#1d2021" stroke-width="1.400" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M501.039,1130.000 L523.119,1130.000" fill="none" stroke="#1d2021" stroke-width="1.400" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="495.52" y="780.40" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="end" fill="#1d2021">height 1000.00</text>
+<path d="M535.079,1194.400 L1104.921,1194.400" fill="none" stroke="#1d2021" stroke-width="1.400" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M535.079,1183.360 L535.079,1205.440" fill="none" stroke="#1d2021" stroke-width="1.400" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M1104.921,1183.360 L1104.921,1205.440" fill="none" stroke="#1d2021" stroke-width="1.400" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="820.00" y="1230.40" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="middle" fill="#1d2021">width 619.39 · width / height 0.6194</text>
+<circle cx="820.00" cy="210.00" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M827.000,210.000 L1224.521,210.000 L1261.321,210.000" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="217.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">top tip</text>
+<text x="1512.36" y="217.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">(0, 0.00)</text>
+<circle cx="820.00" cy="477.18" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M827.000,477.183 L1224.521,477.183 L1261.321,477.183" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="484.18" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">top notch</text>
+<text x="1512.36" y="484.18" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">y 290.42</text>
+<circle cx="820.00" cy="523.77" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M827.000,523.766 L1224.521,523.766 L1261.321,534.223" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="541.22" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">rhombus top</text>
+<text x="1512.36" y="541.22" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">y 341.05</text>
+<circle cx="1104.92" cy="629.53" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M1111.921,629.527 L1224.521,629.527 L1261.321,629.527" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="636.53" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">top piece corners</text>
+<text x="1512.36" y="636.53" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">(±309.70, 456.01)</text>
+<circle cx="1093.49" cy="670.00" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M1100.494,670.000 L1224.521,670.000 L1261.321,686.567" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="693.57" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">rhombus sides</text>
+<text x="1512.36" y="693.57" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">(±297.28, 500.00) · 56.27°</text>
+<circle cx="820.00" cy="692.06" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M827.000,692.060 L1224.521,692.060 L1261.321,743.607" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="750.61" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">facets meet</text>
+<text x="1512.36" y="750.61" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">y 523.98 (23.98 below centre)</text>
+<circle cx="1104.92" cy="710.47" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M1111.921,710.473 L1224.521,710.473 L1261.321,800.647" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="807.65" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">chevron corners</text>
+<text x="1512.36" y="807.65" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">(±309.70, 543.99)</text>
+<circle cx="820.00" cy="816.23" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M827.000,816.234 L1224.521,816.234 L1261.321,857.687" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="864.69" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">rhombus bottom</text>
+<text x="1512.36" y="864.69" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">y 658.95</text>
+<circle cx="820.00" cy="862.82" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M827.000,862.817 L1224.521,862.817 L1261.321,914.727" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="921.73" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">bottom notch</text>
+<text x="1512.36" y="921.73" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">y 709.58</text>
+<circle cx="820.00" cy="1130.00" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M827.000,1130.000 L1224.521,1130.000 L1261.321,1130.000" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1272.36" y="1137.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#1d2021">bottom tip</text>
+<text x="1512.36" y="1137.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#1d2021">(0, 1000.00)</text>
+<path d="M60.000,1310.000 L100.000,1310.000" fill="none" stroke="#1d2021" stroke-width="2.200" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="112.00" y="1317.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#5b6066">outline (the three pieces)</text>
+<path d="M420.000,1310.000 L460.000,1310.000" fill="none" stroke="#1f5fbf" stroke-width="1.600" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="10 6"/>
+<text x="472.00" y="1317.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#5b6066">mirror axes</text>
+<path d="M640.000,1310.000 L680.000,1310.000" fill="none" stroke="#c0392b" stroke-width="2.000" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<text x="692.00" y="1317.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#5b6066">light / dark facet split (as measured, not centred)</text>
+<text x="60.00" y="1352.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="start" fill="#5b6066">Exact by construction: mirror symmetry both ways, equal gaps above and below the rhombus, four gap bands of one width. The facet split is the one value kept as measured.</text>
+</svg>

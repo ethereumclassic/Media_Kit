@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1180" viewBox="0 0 1800 1180" role="img" aria-labelledby="t d">
+<title id="t">Ethereum Classic Logo: facets and colours</title>
+<desc id="d">The eight facets of the logo, each named with its Full colour and Mono hex value.</desc>
+<rect x="0" y="0" width="1800" height="1180" fill="#ffffff"/>
+<text x="60.00" y="70.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="40" font-weight="bold" text-anchor="start" fill="#1d2021">Ethereum Classic Logo: facets and colours</text>
+<text x="60.00" y="110.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#5b6066">Eight facets in three pieces. Full colour / Mono, sRGB.</text>
+<g transform="translate(900.0 150.0) scale(0.92)">
+<defs>
+<mask id="etc-top" maskUnits="userSpaceOnUse" x="-409.6964" y="-100" width="819.3928" height="1200"><path fill="#ffffff" d="M0,0 L309.6964,456.0074 L0,290.4162 L-309.6964,456.0074 Z"/></mask>
+<mask id="etc-rhombus" maskUnits="userSpaceOnUse" x="-409.6964" y="-100" width="819.3928" height="1200"><path fill="#ffffff" d="M0,341.05 L297.2756,500 L0,658.95 L-297.2756,500 Z"/></mask>
+<mask id="etc-chevron" maskUnits="userSpaceOnUse" x="-409.6964" y="-100" width="819.3928" height="1200"><path fill="#ffffff" d="M-309.6964,543.9926 L0,709.5838 L309.6964,543.9926 L0,1000 Z"/></mask>
+</defs>
+<g mask="url(#etc-top)">
+<path fill="#3cba3c" d="M-2000,-2000 L2000,-2000 L2000,3000 L-2000,3000 Z"/>
+<path fill="#0c8412" d="M0,-2000 L2000,-2000 L2000,3000 L0,3000 Z"/>
+</g>
+<g mask="url(#etc-rhombus)">
+<path fill="#3cba3c" d="M-2000,-2000 L2000,-2000 L2000,3000 L-2000,3000 Z"/>
+<path fill="#166816" d="M-594.5512,476.0214 L0,523.9786 L594.5512,476.0214 L0,793.9214 Z"/>
+<path fill="#0c8412" d="M0,523.9786 L0,158.1214 L594.5512,476.0214 L297.2756,634.9714 Z"/>
+<path fill="#034c03" d="M0,523.9786 L0,793.9214 L594.5512,476.0214 Z"/>
+</g>
+<g mask="url(#etc-chevron)">
+<path fill="#3cba3c" d="M-2000,-2000 L2000,-2000 L2000,3000 L-2000,3000 Z"/>
+<path fill="#0c8412" d="M0,-2000 L2000,-2000 L2000,3000 L0,3000 Z"/>
+</g>
+</g>
+<path d="M900.000,150.000 L1184.921,569.527 L900.000,417.183 L615.079,569.527 Z" fill="none" stroke="#1d2021" stroke-width="1.400" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M900.000,463.766 L1173.494,610.000 L900.000,756.234 L626.506,610.000 Z" fill="none" stroke="#1d2021" stroke-width="1.400" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M615.079,650.473 L900.000,802.817 L1184.921,650.473 L900.000,1070.000 Z" fill="none" stroke="#1d2021" stroke-width="1.400" stroke-linecap="butt" stroke-linejoin="round"/>
+<circle cx="805.03" cy="378.90" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M805.026,378.903 L504.679,306.400" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="491.80" y="298.40" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="end" fill="#1d2021">Top piece, left half</text>
+<text x="491.80" y="328.40" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#5b6066">Full colour #3cba3c · Mono #ffffff</text>
+<circle cx="808.84" cy="568.61" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M808.835,568.609 L504.679,518.000" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="491.80" y="510.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="end" fill="#1d2021">Rhombus, upper left</text>
+<text x="491.80" y="540.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#5b6066">Full colour #3cba3c · Mono #ffffff</text>
+<circle cx="808.84" cy="666.10" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M808.835,666.098 L504.679,729.600" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="491.80" y="721.60" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="end" fill="#1d2021">Rhombus, lower left</text>
+<text x="491.80" y="751.60" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#5b6066">Full colour #166816 · Mono #e2e2e2</text>
+<circle cx="805.03" cy="841.10" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M805.026,841.097 L504.679,941.200" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="491.80" y="933.20" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="end" fill="#1d2021">Chevron, left half</text>
+<text x="491.80" y="963.20" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="end" fill="#5b6066">Full colour #3cba3c · Mono #ffffff</text>
+<circle cx="994.97" cy="378.90" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M994.974,378.903 L1295.321,306.400" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1308.20" y="298.40" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#1d2021">Top piece, right half</text>
+<text x="1308.20" y="328.40" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#5b6066">Full colour #0c8412 · Mono #ececec</text>
+<circle cx="991.16" cy="568.61" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M991.165,568.609 L1295.321,518.000" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1308.20" y="510.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#1d2021">Rhombus, upper right</text>
+<text x="1308.20" y="540.00" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#5b6066">Full colour #0c8412 · Mono #ececec</text>
+<circle cx="991.16" cy="666.10" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M991.165,666.098 L1295.321,729.600" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1308.20" y="721.60" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#1d2021">Rhombus, lower right</text>
+<text x="1308.20" y="751.60" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#5b6066">Full colour #034c03 · Mono #d7d7d7</text>
+<circle cx="994.97" cy="841.10" r="5" fill="#ffffff" stroke="#1d2021" stroke-width="1.8"/>
+<path d="M994.974,841.097 L1295.321,941.200" fill="none" stroke="#5b6066" stroke-width="1.000" stroke-linecap="butt" stroke-linejoin="round"/>
+<text x="1308.20" y="933.20" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#1d2021">Chevron, right half</text>
+<text x="1308.20" y="963.20" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="start" fill="#5b6066">Full colour #0c8412 · Mono #ececec</text>
+</svg>

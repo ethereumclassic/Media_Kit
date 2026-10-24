@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1492.5374" height="1492.5374" viewBox="-746.2687 -246.2687 1492.5374 1492.5374" role="img" aria-labelledby="etc-title etc-desc">
+<title id="etc-title">Ethereum Classic logo, mono, square (rebuilt vector, not an official file)</title>
+<desc id="etc-desc">The 2016 faceted Ethereum Classic gem: a notched top piece, a rhombus and a chevron, each split into light and dark facets. Rebuilt from measurements of the logo images Ethereum Classic publishes; the outline is mirror-symmetric left to right and top to bottom. Each piece has a base shape under its facets so no background shows through the seams. Transparent background. Square canvas: the logo is 0.67 of its height and centred, as on the social profile pictures.</desc>
+<!-- Vector rebuilt from the Ethereum Classic logo (Ethereum Classic Media Kit, https://github.com/ethereumclassic/Media_Kit, CC BY 4.0); modified and rebuilt by lal's studio team (brolal). Not an official ETC file. The licence covers copyright only: no trademark rights and no endorsement implied. -->
+<g id="top">
+<path id="top-base" fill="#ffffff" d="M0,0 L309.6964,456.0074 L0,290.4162 L-309.6964,456.0074 Z"/>
+<path id="top-left" fill="#ffffff" d="M0,0 L-309.6964,456.0074 L0,290.4162 Z"/>
+<path id="top-right" fill="#ececec" d="M0,0 L0,290.4162 L309.6964,456.0074 Z"/>
+</g>
+<g id="rhombus">
+<path id="rhombus-base" fill="#ececec" d="M0,341.05 L297.2756,500 L0,658.95 L-297.2756,500 Z"/>
+<path id="rhombus-upper-right" fill="#ececec" d="M0,341.05 L0,523.9786 L297.2756,500 Z"/>
+<path id="rhombus-lower-left" fill="#e2e2e2" d="M-297.2756,500 L0,658.95 L0,523.9786 Z"/>
+<path id="rhombus-upper-left" fill="#ffffff" d="M0,341.05 L-297.2756,500 L0,523.9786 Z"/>
+<path id="rhombus-lower-right" fill="#d7d7d7" d="M0,523.9786 L0,658.95 L297.2756,500 Z"/>
+</g>
+<g id="chevron">
+<path id="chevron-base" fill="#ffffff" d="M-309.6964,543.9926 L0,709.5838 L309.6964,543.9926 L0,1000 Z"/>
+<path id="chevron-left" fill="#ffffff" d="M-309.6964,543.9926 L0,1000 L0,709.5838 Z"/>
+<path id="chevron-right" fill="#ececec" d="M0,709.5838 L0,1000 L309.6964,543.9926 Z"/>
+</g>
+</svg>
